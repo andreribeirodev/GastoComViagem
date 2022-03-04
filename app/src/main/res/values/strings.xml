@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gasto com Viagem</string>
+    <string name="distance">Distância</string>
+    <string name="TotalKm">Total de quilômetros</string>
+    <string name="price">Preço</string>
+    <string name="pricePerLiter">Preço por litro</string>
+    <string name="KmsPerLiter">Kms por Litro</string>
+    <string name="TotalSpend">SEU GASTO TOTAL SERÁ DE:</string>
+    <string name="TotalValue">R$ 0</string>
+    <string name="Calculate">CALCULAR</string>
+    <string name="Autonomy">Autonomia</string>
+    <string name="validation_fill_all_fields">Preencha todos os Campos.</string>
+</resources>
